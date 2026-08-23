@@ -163,16 +163,25 @@ Download Raw Ecommerce Data
 📊 **Project:** [Retail Sales & Business Performance Analysis](https://github.com/RAHULRAIGAR/Retail-Sales-Profitability-Analysis)
 
 🐙 **GitHub:** [RAHULRAIGAR](https://github.com/RAHULRAIGAR)
+
 ---
-Power BI • DAX • Power Query • Data Cleaning • Data Modeling • Retail Analytics • Sales Analysis • Customer Analytics • Data Visualization • Business Intelligence • Data Storytelling
 
-👨‍💻 Author
-Rahul Raigar
+## 🚀 Skills Demonstrated
 
-Aspiring Data Analyst | Power BI | SQL | Python | Excel | Business Intelligence
+**Power BI • DAX • Power Query • Data Cleaning • Data Modeling • Retail Analytics • Sales Analysis • Customer Analytics • Data Visualization • Business Intelligence • Data Storytelling**
 
-🐙 **GitHub:** [RAHULRAIGAR](https://github.com/RAHULRAIGAR)
-
-⭐ If you found this project useful, consider starring the repository.
 ---
-Turning retail data into actionable business insights with Power BI.
+
+## 👨‍💻 Author
+
+### Rahul Raigar
+
+**Aspiring Data Analyst | Power BI | SQL | Python | Excel | Business Intelligence**
+
+🔗 **GitHub:** [RAHULRAIGAR](https://github.com/RAHULRAIGAR)
+
+---
+
+⭐ **If you found this project useful, consider starring the repository.**
+
+> Turning retail data into actionable business insights with Power BI.
