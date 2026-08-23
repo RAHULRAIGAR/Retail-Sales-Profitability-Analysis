@@ -154,7 +154,11 @@ Payment Method
 Customer Segment
 Order Status
 ```
-📥 Raw Data
+📥 ## 📥 Raw Data
+
+The raw dataset used for this project is available below:
+
+📂 **[Download Raw Ecommerce Data](ecommerce_sales_raw_data_2025.csv)**
 
 Download Raw Ecommerce Data
 ---
